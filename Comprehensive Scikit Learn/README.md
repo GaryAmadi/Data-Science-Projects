@@ -33,7 +33,6 @@ For the regression algorithm, here are some of the metrics used:
 
 **A data pipeline is then used at the end of the notebook in an attempt to streamline the algorithm's implementation.**
 
-**Environment:** Developed in a Conda environment using Python.
 
 ### Notebook Link
 
