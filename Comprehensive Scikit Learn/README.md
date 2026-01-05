@@ -1,9 +1,8 @@
 #Comprehensive Scikit Learn Notebook Summary
 
-# Wine Classification Project
-
 ### Overview
-This notebook uses the Scikit-Learn Wine dataset to classify different types of wine based on chemical analysis.
+# In this notebook, various sklearn algorithms are fitted to various datasets in an attempt to create basic classification and regression models
+
 
 ### Methodology
 * **Model:** Random Forest Classifier
@@ -11,4 +10,4 @@ This notebook uses the Scikit-Learn Wine dataset to classify different types of 
 * **Environment:** Developed in a Conda environment using Python 3.9.
 
 ### Notebook Link
-[Open Notebook](./wine_classification.ipynb)
+[Open Notebook](./Comprehensive Scikit Learn.ipynb)
