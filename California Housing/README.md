@@ -13,4 +13,4 @@ Finally, an ensemble model is fitted, specifically the Random Forest Regressor, 
 **Environment:** Developed in a Conda environment using Python.
 
 ### Notebook Link
-[Open Notebook](./California%20Housing.ipynb)
+[Open Notebook](./California%20Housing%20.ipynb)
