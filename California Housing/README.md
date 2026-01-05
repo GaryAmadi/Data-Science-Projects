@@ -10,7 +10,6 @@ For this mini-project, i attempt to fit various algorithms to sklearn's readily 
 
 Finally, an ensemble model is fitted, specifically the Random Forest Regressor, and various metrics are applied to evaluate its performance. 
 
-**Environment:** Developed in a Conda environment using Python.
 
 ### Notebook Link
 [Open Notebook](./California%20Housing%20.ipynb)
