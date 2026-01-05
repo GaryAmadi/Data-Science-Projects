@@ -4,9 +4,10 @@
 # In this notebook, various sklearn algorithms are fitted to various datasets in an attempt to create basic classification and regression models
 
 
-### Methodology
-* **Model:** Random Forest Classifier
-* **Key Metrics:** Accuracy, F1-Score
+### Some of the procedures implemented include:
+* **Model:** Random Forest Regressor
+** The data is imported
+** Non- num
 * **Environment:** Developed in a Conda environment using Python 3.9.
 
 * Hello
