@@ -10,7 +10,6 @@ I implement sklearn's logistic regression algorithm on its wine data set to pred
 * **Hyperparameter optimization** – Using Grid Search Cross-validation to identify the best possible parameters for the model's implementation.
 * **Predictions** are made from the test data set, and various evaluation metrics used to evaluate the performance.
 
-**Environment:** Developed in a Conda environment using Python.
 
 ### Notebook Link
 [Open Notebook](./Wine%20Classification.ipynb)
